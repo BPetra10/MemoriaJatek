@@ -64,7 +64,7 @@ namespace MemoriaJatek
 			idozito.Interval = TimeSpan.FromSeconds(0.5); //fél másodpercenként mér
 			idozito.Tick += Elrejt; //amikor lejár a 0.5mp elrejti a lapokat
 			stopper.Interval = TimeSpan.FromSeconds(0.5);
-			idozito.Tick += Eltelt;
+			stopper.Tick += Eltelt;
 			try
 			{
 				foreach (var item in File.ReadAllLines("highscore.txt"))
@@ -165,6 +165,7 @@ namespace MemoriaJatek
 				megoldott++;
 				if (megoldott==Math.Pow(meret,2)/2)
 				{
+					stopper.Stop();
 					MessageBox.Show("Nyertél!");
 					FileStream fs = new FileStream("highscore.txt",FileMode.Append);
 					StreamWriter sw = new StreamWriter(fs);
