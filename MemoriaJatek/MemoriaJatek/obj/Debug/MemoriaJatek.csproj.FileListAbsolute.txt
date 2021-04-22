@@ -1,0 +1,45 @@
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatek\MemoriaJatek\bin\Debug\MemoriaJatek.exe.config
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatek\MemoriaJatek\bin\Debug\MemoriaJatek.exe
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatek\MemoriaJatek\bin\Debug\MemoriaJatek.pdb
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.csprojAssemblyReference.cache
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatek\MemoriaJatek\obj\Debug\MainWindow.g.cs
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatek\MemoriaJatek\obj\Debug\App.g.cs
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek_MarkupCompile.cache
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek_MarkupCompile.lref
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatek\MemoriaJatek\obj\Debug\MainWindow.baml
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.g.resources
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.Properties.Resources.resources
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.csproj.GenerateResource.cache
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.csproj.CoreCompileInputs.cache
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.exe
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.pdb
+D:\Webfejlesztő\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\bin\Debug\MemoriaJatek.exe.config
+D:\Webfejlesztő\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\bin\Debug\MemoriaJatek.exe
+D:\Webfejlesztő\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\bin\Debug\MemoriaJatek.pdb
+D:\Webfejlesztő\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.csprojAssemblyReference.cache
+D:\Webfejlesztő\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MainWindow.g.cs
+D:\Webfejlesztő\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\App.g.cs
+D:\Webfejlesztő\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek_MarkupCompile.cache
+D:\Webfejlesztő\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek_MarkupCompile.lref
+D:\Webfejlesztő\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MainWindow.baml
+D:\Webfejlesztő\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.g.resources
+D:\Webfejlesztő\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.Properties.Resources.resources
+D:\Webfejlesztő\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.csproj.GenerateResource.cache
+D:\Webfejlesztő\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.csproj.CoreCompileInputs.cache
+D:\Webfejlesztő\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.exe
+D:\Webfejlesztő\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.pdb
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\bin\Debug\MemoriaJatek.exe.config
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\bin\Debug\MemoriaJatek.exe
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\bin\Debug\MemoriaJatek.pdb
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.csprojAssemblyReference.cache
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MainWindow.g.cs
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\App.g.cs
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek_MarkupCompile.cache
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek_MarkupCompile.lref
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MainWindow.baml
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.g.resources
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.Properties.Resources.resources
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.csproj.GenerateResource.cache
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.csproj.CoreCompileInputs.cache
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.exe
+D:\Webfejlesztő\PM alkalmazás-fejlesztés\MemoriaJatekDynamic\MemoriaJatek\MemoriaJatek\obj\Debug\MemoriaJatek.pdb
