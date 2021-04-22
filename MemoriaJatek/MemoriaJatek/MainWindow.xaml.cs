@@ -172,10 +172,18 @@ namespace MemoriaJatek
 					sw.Close();
 					fs.Close();
 					//Miután megnyeri a játékot alapértelmezettre állítja az időt, lépést, és méretet újra meg kell adni.
+					//Az eredményeket újra betöltjük
 					meretLista.SelectedItem = -1;
 					lepesekSzoveg.Content = "";
 					elteltSzoveg.Content = "";
 					tabla.Children.Clear();
+					highscore.Items.Clear();
+					foreach (var item in File.ReadAllLines("highscore.txt"))
+					{
+						string[] resz = item.Split(';');
+						string szoveg = resz[0] + " lépésszám: " + resz[1] + " idő: " + resz[2] + " táblaméret: " + resz[3];
+						highscore.Items.Add(szoveg);
+					}
 				}
 			}
 			else
